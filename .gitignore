@@ -1,0 +1,7 @@
+*.pyc
+*.spec
+*.lnk
+dist/*
+build/*
+.vscode/*
+.venv/*
